@@ -53,7 +53,7 @@
      
           <li><a href="#services">Servicios</a></li>
           <li><a href="#portfolio">Portafolio</a></li>
-          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="#pricing">Precio</a></li>
 
           <li><a href="#contact">Contacto</a></li>
           <li>
