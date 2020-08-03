@@ -53,7 +53,11 @@
      
           <li><a href="#services">Servicios</a></li>
           <li><a href="#portfolio">Portafolio</a></li>
+<<<<<<< Updated upstream
           <li><a href="#pricing">Precio</a></li>
+=======
+          <li><a href="#pricing">Precios</a></li>
+>>>>>>> Stashed changes
 
           <li><a href="#contact">Contacto</a></li>
           <li>
@@ -68,7 +72,7 @@
                </li> 
                <li>
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
+                            <a href="{{ route('register') }}">Registro</a>
                         @endif
                     @endauth
                 
@@ -94,9 +98,9 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
-            <h1>We design digital products that help grow businesses</h1>
-            <h2>We are team of talanted designers making websites with Bootstrap</h2>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <h1>Invierte con geoiteligencia en tus patrimonio</h1>
+            <h2>Estudios geoambientales urbanos</h2>
+            <a href="#about" class="btn-get-started scrollto">Ver más</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
@@ -119,18 +123,17 @@
           </div>
           <div class="col-lg-6 d-flex flex-column justify-contents-center" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0">
-              <h3>Learn more about us</h3>
+              <h3>¿Qué es lo que hacemos?</h3>
               <p class="font-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Ya estas listo para invertir en una propiedad, nosotros nos encargamos de evaluar la zona depediendo tus encesidades
               </p>
               <ul>
-                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperd</li>
+                <li><i class="icofont-check-circled"></i> Cálidad Urbana</li>
+                <li><i class="icofont-check-circled"></i> Seguridad y ante fenónemos físicos y químicos</li>
+                <li><i class="icofont-check-circled"></i> Servicios, rutas de acceso, calidad de aire, medición de ruido</li>
               </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate tera noden carma palorp mades tera.
+               A través de un análisis geoespacial te ayudamos a avaluar los pros y contras de la propiedad que estas interesado en comprar
               </p>
             </div>
           </div>
@@ -908,7 +911,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Scaffold</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Geotecmática</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
